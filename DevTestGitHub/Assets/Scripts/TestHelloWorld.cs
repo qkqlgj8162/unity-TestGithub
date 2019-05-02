@@ -6,7 +6,7 @@ public class TestHelloWorld : MonoBehaviour
 {    
     private void Start()
     {
-        //print("Hello World");
-        print("안녕하세요");
+        print("Hello World");
+        //print("안녕하세요");
     }
 }
